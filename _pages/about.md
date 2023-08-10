@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: nwang3.github.io/assets/me/prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
