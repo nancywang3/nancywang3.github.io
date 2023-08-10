@@ -1,1 +1,1 @@
-Default
+Default image folder
