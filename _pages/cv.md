@@ -7,4 +7,4 @@ nav: true
 nav_order: 3
 ---
 
-Please find my CV [here](https://nwang3.github.io/assets/me/nancywang.pdf).
+Please find my CV [here](https://nwang3.github.io/assets/me/cv.pdf).
