@@ -7,13 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-# Works in Progress
+## Works in Progress
 Playing Lowball: The Roles of Initial Offers and Negotiation in the Gender Earnings Gap (with Nagisa Tadjfar)
 
 Does Racial Representation in Media Affect Racial Attitudes and Real-World Behaviors? Evidence from _The Cosby Show_ (with Kirsten Cornelson)
 
 
-# Publications
+## Publications
 [Polygenic Prediction Within and Between Families from a 3-Million-Person GWAS of Educational Attainment](https://www.nature.com/articles/s41588-022-01016-z) (Okbay et al.) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Nature Genetics_. 2022.
 
@@ -27,7 +27,7 @@ Does Racial Representation in Media Affect Racial Attitudes and Real-World Behav
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Advanced Materials Technologies_. 2018.
 
 
-# Other
-Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections \
+## Other
+[Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections](https://nwang3.github.io/assets/papers/womens_march_2018.pdf) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _MIT Undergraduate Journal of Economics._ 2019.
 
