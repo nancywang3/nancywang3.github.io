@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -20,4 +20,4 @@ Hello! I am a PhD candidate in economics at [MIT](https://economics.mit.edu/). I
 
 I graduated from MIT in 2019 with an SB in mathematical economics and chemical-biological engineering. I did research in genoeconomics at the [National Bureau of Economic Research](https://www.nber.org/) before my PhD. 
 
-Some interests outside of economics include biking at a leisurely pace, sampling hot sauces, playing violin, and listening to pop trash. 
+Some of my interests outside of economics include biking at a leisurely pace, sampling hot sauces, playing violin, and listening to pop trash. 
