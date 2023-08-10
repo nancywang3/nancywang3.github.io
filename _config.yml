@@ -167,6 +167,7 @@ exclude:
   - vendor
   - blog
   - _posts
+  - _news
 keep_files:
   - CNAME
   - .nojekyll
