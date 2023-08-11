@@ -12,7 +12,7 @@ Playing Lowball: The Roles of Initial Offers and Negotiation in the Gender Earni
 
 Does Racial Representation in Media Affect Racial Attitudes and Real-World Behaviors? Evidence from _The Cosby Show_ (with Kirsten Cornelson)
 
-</br>
+<br>
 
 ## Publications
 [Polygenic Prediction Within and Between Families from a 3-Million-Person GWAS of Educational Attainment](https://www.nature.com/articles/s41588-022-01016-z) (Okbay et al.) \
@@ -27,7 +27,7 @@ Does Racial Representation in Media Affect Racial Attitudes and Real-World Behav
 [3D‐printed gastric resident electronics](https://onlinelibrary.wiley.com/doi/full/10.1002/admt.201800490) (Kong et al.) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _Advanced Materials Technologies_. 2018.
 
-</br>
+<br>
 
 ## Other
 [Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections](https://nwang3.github.io/assets/papers/womens_march_2018.pdf) \
