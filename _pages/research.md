@@ -30,6 +30,6 @@ Does Racial Representation in Media Affect Racial Attitudes and Real-World Behav
 <br>
 
 ## Other
-[Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections](https://nwang3.github.io/assets/papers/womens_march_2018.pdf) \
+[Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections](https://nancywang3.github.io/assets/papers/womens_march_2018.pdf) \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _MIT Undergraduate Journal of Economics._ 2019.
 
