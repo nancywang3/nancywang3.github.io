@@ -37,6 +37,6 @@ nav_order: 2
 <br>
 
 ## Other
-Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections \
+**Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _MIT Undergraduate Journal of Economics._ 2019.
 
