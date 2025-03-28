@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD candidate in economics at [MIT](https://economics.mit.edu/), where I am supported by the [National Science Foundation](https://www.nsfgrfp.org/). I do research in labor, political, and behavioral economics. 
+Hello! I am a PhD candidate in economics at [MIT](https://economics.mit.edu/), where I am supported by the [National Science Foundation](https://www.nsfgrfp.org/). I do research in behavioral and labor economics, with a focus on the digital economy. 
 
 I graduated from MIT in 2019 with an SB in mathematical economics and chemical-biological engineering. Before my PhD, I did research in genoeconomics at the [National Bureau of Economic Research](https://www.nber.org/). 
 
-Outside of economics, my interests include running to cafes, sampling hot sauces, playing violin, and listening to pop trash. 
+Outside of economics, my interests include running to cafes, enjoying matcha lattes, sampling hot sauces, playing violin, and listening to pop trash. 
