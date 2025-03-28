@@ -15,7 +15,7 @@ Social Media, Body Image, and Economic Decisions (with Hannah Solheim)
 
 The Effect of Confidence in Ability on Job Search Behavior (with Maxim Massenkoff and Nagisa Tadjfar)
 
-<br> -->
+<br>
 
 ## Publications
 [Polygenic Prediction Within and Between Families from a 3-Million-Person GWAS of Educational Attainment](https://www.nature.com/articles/s41588-022-01016-z) (Okbay et al.) \
