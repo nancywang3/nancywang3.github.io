@@ -9,13 +9,13 @@ nav_order: 2
 
 ## Selected Works in Progress 
 
-The Roles of Employer Beliefs about Outside Offers in the Gender Earnings Gap \
+**The Roles of Employer Beliefs about Outside Offers in the Gender Earnings Gap** \
 (with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar)) 
 
-Social Media, Body Image, and Economic Decisions \
+**Social Media, Body Image, and Economic Decisions** \
 (with [Hannah Solheim](https://econ.columbia.edu/econpeople/hannah-solheim/))
 
-The Effect of Confidence in Ability on Job Search Behavior \
+**The Effect of Confidence in Ability on Job Search Behavior** \
 (with [Maxim Massenkoff](https://maximmassenkoff.com/) and [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar))
 
 <br>
