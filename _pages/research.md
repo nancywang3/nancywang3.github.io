@@ -7,12 +7,16 @@ nav: true
 nav_order: 2
 ---
 
-## Works in Progress
-Playing Lowball: The Roles of Initial Offers and Negotiation in the Gender Earnings Gap (with Nagisa Tadjfar)
+<! -- ## Works in Progress
+The Roles of Employer Beliefs about Negotiation and Outside Offers in the Gender Earnings Gap (with Nagisa Tadjfar)
 
-Does Racial Representation in Media Affect Racial Attitudes and Real-World Behaviors? Evidence from _The Cosby Show_ (with Kirsten Cornelson)
+Social Media, Body Image, and Economic Decisions (with Hannah Solheim)
 
-<br>
+Social Media Rabbit Holes (with Hannah Solheim)
+
+The Effect of Confidence in Ability on Job Search Behavior (with Maxim Massenkoff and Nagisa Tadjfar). Partnering with an online interviewing platform in the tech sector, we study how anonymous interviewing online can improve confidence and labor market outcomes. 
+
+<br> -->
 
 ## Publications
 [Polygenic Prediction Within and Between Families from a 3-Million-Person GWAS of Educational Attainment](https://www.nature.com/articles/s41588-022-01016-z) (Okbay et al.) \
@@ -30,6 +34,6 @@ Does Racial Representation in Media Affect Racial Attitudes and Real-World Behav
 <br>
 
 ## Other
-[Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections](https://nancywang3.github.io/assets/papers/womens_march_2018.pdf) \
+Analyzing the Effect of the 2017 Women’s March on the 2018 Primary Elections \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _MIT Undergraduate Journal of Economics._ 2019.
 
