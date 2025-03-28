@@ -7,14 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-<! -- ## Works in Progress
-The Roles of Employer Beliefs about Negotiation and Outside Offers in the Gender Earnings Gap (with Nagisa Tadjfar)
+## Works in Progress 
+
+The Roles of Employer Beliefs about Outside Offers in the Gender Earnings Gap (with Nagisa Tadjfar) 
 
 Social Media, Body Image, and Economic Decisions (with Hannah Solheim)
 
-Social Media Rabbit Holes (with Hannah Solheim)
-
-The Effect of Confidence in Ability on Job Search Behavior (with Maxim Massenkoff and Nagisa Tadjfar). Partnering with an online interviewing platform in the tech sector, we study how anonymous interviewing online can improve confidence and labor market outcomes. 
+The Effect of Confidence in Ability on Job Search Behavior (with Maxim Massenkoff and Nagisa Tadjfar)
 
 <br> -->
 
