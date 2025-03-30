@@ -6,10 +6,6 @@
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
-  <!-- Preload Profile Image for Faster Loading -->
-  {% if page.profile and page.profile.image %}
-    <link rel="preload" href="{{ site.url }}/assets/img/{{ page.profile.image }}" as="image">
-  {% endif %}
   {% include head.html %}
   </head>
 
