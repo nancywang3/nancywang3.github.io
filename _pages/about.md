@@ -20,4 +20,4 @@ Hello! I am a PhD candidate in economics at [MIT](https://economics.mit.edu/), w
 
 I graduated from MIT in 2019 with an SB in mathematical economics and chemical-biological engineering. Before my PhD, I did research in genoeconomics at the [National Bureau of Economic Research](https://www.nber.org/). 
 
-Outside of economics, my interests include running to cafes, enjoying matcha lattes, sampling hot sauces, playing violin, and listening to pop trash. 
+Outside of economics, my interests include running to cafes, drinking matcha lattes, sampling hot sauces, playing violin, and listening to pop trash. 
