@@ -17,6 +17,7 @@ nav_order: 2
 </details> 
 
 
+
 **Social Media, Body Image, and Economic Decisions** \
 (with [Hannah Solheim](https://econ.columbia.edu/econpeople/hannah-solheim/))
 
