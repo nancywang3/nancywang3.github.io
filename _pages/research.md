@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Selected Works in Progress 
 
-**The Roles of Employer Beliefs about Outside Offers in the Gender Earnings Gap** \
+**Firms Believing Women Get Less Means They Do** \
 (with [Nagisa Tadjfar](https://economics.mit.edu/people/phd-students/nagisa-tadjfar)) 
 
 **Social Media, Body Image, and Economic Decisions** \
