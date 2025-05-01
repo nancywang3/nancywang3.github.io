@@ -6,7 +6,11 @@ layout: default
       <div class="post">
         <header class="post-header">
           <h1 class="post-title">
-            {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
+            <!-- {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %} -->
+            <!-- {% if site.title == "blank" -%}<span style="color: rgb(138, 36, 36); font-weight: 600;">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %} -->
+            <span style="color: rgb(53, 53, 53); font-weight: 500;">
+              {{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}
+            </span>
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
