@@ -16,7 +16,7 @@ nav_order: 2
     <div>
       <div style="font-weight: bold; font-size: 16px;">Firms Believing Women Get Less Means They Do</div>
       <div style="margin-top: 4px; font-size: 14px;">
-        (with <a href="https://economics.mit.edu/people/phd-students/nagisa-tadjfar" style="color: rgb(138, 36, 36); text-decoration: none;">Nagisa Tadjfar</a>)
+        (with <a href="https://nagisatadjfar.github.io/" style="color: rgb(138, 36, 36); text-decoration: none;">Nagisa Tadjfar</a>)
       </div>
     </div>
     <a href="/assets/papers/Lowballing.pdf" 
@@ -57,7 +57,7 @@ nav_order: 2
     <div>
       <div style="font-weight: bold; font-size: 16px;">The Effect of Confidence in Ability on Job Search Behavior</div>
       <div style="margin-top: 4px; font-size: 14px;">
-        (with <a href="https://maximmassenkoff.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Maxim Massenkoff</a> and <a href="https://economics.mit.edu/people/phd-students/nagisa-tadjfar" style="color: rgb(138, 36, 36); text-decoration: none;">Nagisa Tadjfar</a>)
+        (with <a href="https://maximmassenkoff.com/" style="color: rgb(138, 36, 36); text-decoration: none;">Maxim Massenkoff</a> and <a href="https://nagisatadjfar.github.io/" style="color: rgb(138, 36, 36); text-decoration: none;">Nagisa Tadjfar</a>)
       </div>
     </div>
   </div>
